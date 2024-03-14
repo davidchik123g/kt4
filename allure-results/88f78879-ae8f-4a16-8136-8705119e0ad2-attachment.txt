@@ -1,0 +1,1 @@
+[32mINFO    [0m test_add_htc_to_cart:BasePage.py:16 Finding element by locator: ('xpath', "//body/div[@id='product-category']/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/button[1]")
